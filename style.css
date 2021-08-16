@@ -3,6 +3,7 @@
     font-family: 'Quicksand', sans-serif;
     margin: 0; 
     box-sizing: border-box;
+    scroll:smooth;
 }
 
 .container {
