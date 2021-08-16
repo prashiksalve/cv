@@ -248,6 +248,9 @@
     .section-2-a{
         width: 100%;
     }
+    .section-3{
+        display:none;
+    }
 }
 
 @media screen and (max-width: 320px) {
